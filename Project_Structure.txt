@@ -1,0 +1,25 @@
+library-management-system/
+│
+├── backend/
+│   ├── src/
+│   │   └── main/
+│   │       ├── java/com/library/
+│   │       │   ├── controller/
+│   │       │   ├── model/
+│   │       │   ├── repository/
+│   │       │   └── service/
+│   │       └── resources/
+│   │           └── application.properties
+│   ├── pom.xml
+│   └── README.md
+│
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   └── App.js
+│   ├── package.json
+│   └── README.md
+│
+└── README.md
